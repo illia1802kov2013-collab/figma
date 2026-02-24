@@ -7,3 +7,39 @@
     letter-spacing: 0%;
     text-decoration: none;
 }
+.category{
+    color: #B4AD9E;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 100%;  
+    letter-spacing: 0%;
+}
+.photo{
+    color: #B4AD9E;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 100%;  
+    letter-spacing: 0%;
+}
+.title{
+    color:#626262;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.text{
+    color: #626262;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+button{
+    color: #626262;
+    layout: relative;
+    width: 165px;
+    height: 60px;
+    top: 2110px;
+    left: 506px;
+}
